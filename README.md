@@ -1,2 +1,2 @@
-# coturn-on-docker
-TURN server in a docker image
+# Coturn on Docker
+TURN server in a docker image, based on Coturn project
