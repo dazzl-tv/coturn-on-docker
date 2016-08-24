@@ -1,5 +1,6 @@
 # Coturn on Docker
 [![Docker Repository on Quay](https://quay.io/repository/dazzl/coturn/status "Docker Repository on Quay")](https://quay.io/repository/dazzl/coturn)
+
 TURN server in a docker image, based on Coturn project
 
 ## Usual parameters
